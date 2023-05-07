@@ -46,9 +46,11 @@ p {
 /*  Header   */
 .interior {
 position: relative;
+display: flex;
+flex-direction: column;
 /* margin-left: 80px;
 margin-right: 80px; */
-flex-basis: 1760px;
+/* flex-basis: 1760px; */
 }
 
 .bgn-image {   
